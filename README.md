@@ -2,6 +2,6 @@
 
 - Estudante: Engenharia de software 1 Fase 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneyoliveiraj&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneyoliveiraj&hide=contribs,prs)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyoliveiraj&layout=compact)](https://github.com/sidneyoliveiraj/github-readme-stats)
